@@ -1,0 +1,6 @@
+torch
+numpy
+matplotlib
+torchvision
+-e git+https://github.com/openai/mujoco-py.git@1fe312b09ae7365f0dd9d4d0e453f8da59fae0bf#egg=mujoco_py
+scipy
