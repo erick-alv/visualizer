@@ -105,6 +105,4 @@ venv.bak/
 
 
 #own
-*.npy
 *.idea
-*.ckpt
